@@ -17,7 +17,7 @@ repository               : "spadonidittrichmt848130/LJT-Homepage"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : ""
+  avatar           :
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group"
